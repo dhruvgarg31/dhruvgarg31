@@ -64,7 +64,7 @@
 </summary>
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?theme=algolia&username=Urvashi0109&show_icons=true&locale=en" alt="dhruvgarg31" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?theme=algolia&username=dhruvgarg31&show_icons=true&locale=en" alt="dhruvgarg31" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvgarg31&langs_count=15&layout=compact&hide_border=true&theme=algolia" /></p>
 <br/>
 
