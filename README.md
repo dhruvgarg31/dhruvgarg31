@@ -1,7 +1,7 @@
 <h1 align='center'>Hi there , I'm Dhruv Garg 👋🏻</h1><br>
 
 <a target="_blank">
-  <img align="right" height="200" width="300" src="https://github.com/dhruvgarg31/dhruvgarg31/blob/main/icons/main (2).png">
+  <img align="right" height="200" width="300" src="https://github.com/dhruvgarg31/dhruvgarg31/blob/main/icons/main.mp4">
 </a>
 
 - 🔭 𝙸'𝚖 3r𝚍 𝚢𝚎𝚊𝚛 BE CSE student.
